@@ -18,6 +18,10 @@ Signaligner-Pro is an interactive tool for algorithm-assisted exploration and an
 4. Auto-generation of color schemes for imported label files
 
 ## Research paper and citation request
+If you have used Signaligner Pro as part of your reseaech and want to get more details, please read and cite the following paper:
+
+Aditya Ponnada, Seth Cooper, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. In 2021 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE (To appear).
+
 The original idea for Signaligner Pro stems from the following paper. Please get in touch for more details. The open access manuscript can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6876631/).
 
 Aditya Ponnada, Seth Cooper, Binod Thapa-Chhetry, Josh Aaron Miller, Dinesh John, and Stephen Intille. 2019. Designing Videogames to Crowdsource Accelerometer Data Annotation for Activity Recognition Research. In Proceedings of the Annual Symposium on Computer-Human Interaction in Play (CHI PLAY ’19). Association for Computing Machinery, New York, NY, USA, 135–147. DOI:https://doi.org/10.1145/3311350.3347153
