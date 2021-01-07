@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: ["Signaligner Pro"]
-
+title: Signaligner Pro
+show_downloads: false
+github:
+  is_project_page: false
