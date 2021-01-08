@@ -9,7 +9,7 @@ Signaligner-Pro is an interactive tool for algorithm-assisted exploration and an
 
 [macOS] --> (Coming soon!)
 
-[Windows](https://github.com/crowdgames/signaligner-web/releases/download/v3.0-beta/Signaligner-Pro-v3.0-beta.zip) (v3.0-beta)
+[Windows](https://github.com/crowdgames/signaligner-web/releases/latest) (v3.0-beta)
 
 
 ## In current release ##
