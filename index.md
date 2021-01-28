@@ -5,14 +5,15 @@
 ## What is Signaligner Pro ##
 Signaligner-Pro is an interactive tool for algorithm-assisted exploration and annotation of raw accelerometer data. The tool can be used by researchers using raw accelerometer data to support research in activity recognition/machine learning, exercise science, and sleep quality research among others.
 
-## Download Signaligner Pro for Mac or PC ##
+## Download Signaligner Pro ##
 
-[macOS] --> (Coming soon!)
+### v2.3.3-beta ###
+[Windows](releases/download/v2.3.3-beta/signalignerpro-windows-v2.3.3-beta-98bc3987-20210109.zip)
+[macOS](releases/download/v2.3.3-beta/signalignerpro-macos-v2.3.3-beta-98bc3987-20210109.zip)
+[Linux](releases/download/v2.3.3-beta/signalignerpro-linux-v2.3.3-beta-98bc3987-20210109.zip)
+[Source](releases/download/v2.3.3-beta/signalignerpro-source-v2.3.3-beta-98bc3987-20210109.zip)
 
-[Windows](https://github.com/crowdgames/signaligner-web/releases/latest) (v3.0-beta -- build and source)
-
-
-## In current release ##
+### In current release ###
 1. UI improvements and bugfixes
 2. Improved support for missing sensor data
 3. Improved error handling and precision for imported labels
