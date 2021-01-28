@@ -3,23 +3,30 @@
 # Signaligner Pro #
 
 ## What is Signaligner Pro ##
+
 Signaligner-Pro is an interactive tool for algorithm-assisted exploration and annotation of raw accelerometer data. The tool can be used by researchers using raw accelerometer data to support research in activity recognition/machine learning, exercise science, and sleep quality research among others.
 
 ## Download Signaligner Pro ##
 
 ### v2.3.3-beta ###
-[Windows](releases/download/v2.3.3-beta/signalignerpro-windows-v2.3.3-beta-98bc3987-20210109.zip)
-[macOS](releases/download/v2.3.3-beta/signalignerpro-macos-v2.3.3-beta-98bc3987-20210109.zip)
-[Linux](releases/download/v2.3.3-beta/signalignerpro-linux-v2.3.3-beta-98bc3987-20210109.zip)
-[Source](releases/download/v2.3.3-beta/signalignerpro-source-v2.3.3-beta-98bc3987-20210109.zip)
+
+[Windows](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.3-beta/signalignerpro-windows-v2.3.3-beta-98bc3987-20210109.zip)
+
+[macOS](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.3-beta/signalignerpro-macos-v2.3.3-beta-98bc3987-20210109.zip)
+
+[Linux](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.3-beta/signalignerpro-linux-v2.3.3-beta-98bc3987-20210109.zip)
+
+[Source](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.3-beta/signalignerpro-source-v2.3.3-beta-98bc3987-20210109.zip)
 
 ### In current release ###
+
 1. UI improvements and bugfixes
 2. Improved support for missing sensor data
 3. Improved error handling and precision for imported labels
 4. Auto-generation of color schemes for imported label files
 
 ## Research paper and citation request
+
 If you have used Signaligner Pro as part of your reseaech and want to get more details, please read and cite the following paper:
 
 Aditya Ponnada, Seth Cooper, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. In 2021 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE (To appear).
@@ -39,15 +46,18 @@ Aditya Ponnada, Seth Cooper, Binod Thapa-Chhetry, Josh Aaron Miller, Dinesh John
 5. This starts Signaligner Pro's launcher interface
 
 ## In-built test data ##
+
 1. The tool comes packaged with test data to run
 2. On launcher, click on "Open Test Dataset"
 3. It will launch the interface in your default browser
 4. The test data is a simulated sinusoidal data along the X, Y, Z access
 
 ## Example dataset ##
+
 An example dataset is available [here](TEST_DATA.csv) to test the tool. For convinience, we have included only two hours worth of raw data collected at 100Hz. Please get in touch if you want to try the tool with a larger dataset (7-days or more). 
 
 ## Import your own data ##
+
 1. The tool supports data from research-grade Actigraph (GT3X+ or link) as well as with raw data collected from commercial smartwatches and fitness trackers.
 
 2. The data should be in the following format (standard export format for Actigraph devices).
@@ -80,6 +90,7 @@ The first ten lines contain header information. Your imported dataset must have 
 7. Once imported, Signaligner Pro will process your data for visualization. This may take several minutes, depending on the size of the dataset.
 
 ## Labeling data with algorithms ##
+
 1. Signaligner Pro is pre-packaged with three algorithms. **NOTE:** These algorithms are only compatible with the data from Actigraph devices. Please get in touch to run these algorithms for other sensor models.
 2. **MUSS:** Classifies data into 7 physical activities namely (to be updated). More details can be found here (TBA)
 3. **SWAN:** Classifies data into sleep, wear, and non-wear states. More details can be found here (TBA)
@@ -87,6 +98,7 @@ The first ten lines contain header information. Your imported dataset must have 
 5. For your imported dataset, select an algorithm of your choice to pre-label the data with. This process may take several minutes
 
 ## Importing your own labels ##
+
 You can import your own label files or labels created from other algorithms on the imported dataset. Please make sure that the start and end times of the labels lie within the start and end times of the the imported dataset. The data can be imported in the following format:
 
 ```
@@ -98,6 +110,7 @@ You can import your own label files or labels created from other algorithms on t
 PREDICTION is the actual label or classification by the algorithm. If the label source is an algorithm, we recommend using "Algo", or else use "Player". LABELSET is used to identify the session labels. Please provide a different name if there already exists a default labelset.
 
 ## Configuring labels ##
+
 1. The tool allows you to configure label colors and text
 2. Please go to /users/Documents/SignalignerData/Datasets/(Dataset folder name)/config.json, as shown in the example below.
 
@@ -138,6 +151,7 @@ PREDICTION is the actual label or classification by the algorithm. If the label 
 This configuration file can be edited to change the g-range, measurement unit, label colors, as well as sensor channels (e.g., when using a diaxial accelerometer instead of a triaxial accelerometer).
 
 ## Importing your own video
+
 The tool supports video importing as to display snapshots under your data. Video importing can be done through the launcher. Supported video types are `mp4` and `mov`.
 1. To import a video, first you must to supply a data sensor (`.csv` file) to be imported with.
 2. In the launcher, click on "Import Single Datasets" or "Import Multiple Datasets", and import a `.mp4` or `.mov` file along with at least 1 `.csv` file.
@@ -147,6 +161,7 @@ The tool supports video importing as to display snapshots under your data. Video
 
 
 ## Questions? ##
+
 For questions related to repo access, feature contribution, data processing scripts, sample datasets, and interface code, please contact:
 [Aditya Ponnada](mailto:ponnada.a@husky.neu.edu) and [Prof. Seth Cooper](mailto:se.cooper@northeastern.edu )
 
@@ -161,6 +176,7 @@ For collaboration-related questions, please contact:
 
 
 ## Acknowledgements ##
+
 The software development was supported by the National Institute of Biomedical Imaging and Bioengineering of the National Institutes of Health (NIH) under award number UH2EB024407. The work was also supported by NU-TECH AWS credits award from Northeastern University, Boston, MA. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH. 
 
-This is a joint effort between Northeastern University's mHealth Research Group, Crowdgames Lab, and Exercise Physiology Lab. We are also sincerely thankful to our teammates from [sandboxnu.com](https://www.sandboxnu.com/) for their support in improving this software as we continue to work with them. 
+This is a joint effort between Northeastern University's mHealth Research Group, Crowdgames Lab, and Exercise Physiology Lab. We are also sincerely thankful to our teammates from [sandboxnu.com](https://www.sandboxnu.com/) for their support in improving this software as we continue to work with them.
