@@ -32,7 +32,7 @@ The original idea for Signaligner Pro stems from the following paper. Please get
 1. Select the appropriate operating system and download the package
 2. Unzip the package
 3. If you are using Windows OS, click on the Windows Batch file to run the software
-4. if you are using Mac OS, (To be updated)
+4. if you are using Mac OS, run the app
 5. This starts Signaligner Pro's launcher interface
 
 ## In-built test data ##
@@ -73,7 +73,7 @@ Accelerometer X,Accelerometer Y,Accelerometer Z
 ```
 The first ten lines contain header information. Your imported dataset must have at least the Start Time, Start Date, and Sampling Rate (e.g., 100 Hz) information to process and prepare the dataset for visualization and annotation. Pleae get in touch for questions related to converting your sensor data format into Signaligner Pro format.
 
-3. To import your own dataset, click on "Import Single DataSet".
+3. To import your own dataset, click on "Import Single Dataset".
 4. If you have data from multiple participants, please select "Import Multiple Datasets".
 5. You will also be asked to confirm if your participant dataset has data from multiple sensors. For instance, you may have dataset where each participant wore sensors on the wrist and ankle.
 6. If you have data from multiple sensors, please make sure that you place files from different sensors (but for the same participant) in the same sub-folder of the participant.
@@ -153,7 +153,7 @@ The tool supports video importing as to display snapshots under your data. Video
 ## Questions? ##
 
 For questions related to repo access, feature contribution, data processing scripts, sample datasets, and interface code, please contact:
-[Aditya Ponnada](mailto:ponnada.a@husky.neu.edu) and [Prof. Seth Cooper](mailto:se.cooper@northeastern.edu )
+[Aditya Ponnada](mailto:ponnada.a@husky.neu.edu) and [Prof. Seth Cooper](mailto:se.cooper@northeastern.edu)
 
 For questions related to MUSS and/or QC algorithm, please contact:
 [Qu Tang](tang.q@northeastern.edu)
