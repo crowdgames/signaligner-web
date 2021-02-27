@@ -149,6 +149,9 @@ The tool supports video importing as to display snapshots under your data. Video
 4. Once imported, Signaligner Pro will process your video and data for visualization. 
 5. Then you can view your data by clicking "Open Selected Dataset."
 
+## Notes
+
+Signaligner represents time and sample intervals as half-open intervals that include the begin time/sample but not the end time/sample, i.e. [begin, end).
 
 ## Questions? ##
 
@@ -163,7 +166,6 @@ For questions related to SWAN and/or QC algorithm, please contact:
 
 For collaboration-related questions, please contact:
 [Prof. Stephen Intille](S.Intille@northeastern.edu), [Prof. Seth Cooper](se.cooper@northeastern.edu), or [Prof. Dinesh John](d.john@northeastern.edu)
-
 
 ## Acknowledgements ##
 
