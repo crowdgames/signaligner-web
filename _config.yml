@@ -2,3 +2,5 @@ title: Signaligner Pro
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+show_downloads: false
+google_analytics: UA-193742147-1
