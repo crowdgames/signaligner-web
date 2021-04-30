@@ -8,13 +8,13 @@ Signaligner-Pro is an interactive tool for algorithm-assisted exploration and an
 
 ## Download Signaligner Pro ##
 
-### v2.3.6-beta ###
-Note that macOS and Linux updates will be released soon for v2.3.6-beta
+### v2.3.7-beta ###
+Note that macOS and Linux updates will be released soon for v2.3.7-beta
 
-* [Windows](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.6-beta/signalignerpro-windows-v2.3.6-beta-notag-a44401d6-20210413.zip)
-* [macOS](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.5-beta/signalignerpro-macos-v2.3.5-beta-f9a8a56d-20210320.zip)
-* [Linux](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.5-beta/signalignerpro-linux-v2.3.5-beta-f9a8a56d-20210320.zip)
-* [Source](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.6-beta/signalignerpro-source-v2.3.6-beta-notag-a44401d6-20210413.zip)
+* [Windows-v2.3.7-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.7-beta/signalignerpro-windows-v2.3.7-beta-notag-9fa7755f-20210429.zip)
+* [macOS-v2.3.5-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.5-beta/signalignerpro-macos-v2.3.5-beta-f9a8a56d-20210320.zip)
+* [Linux-v2.3.5-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.5-beta/signalignerpro-linux-v2.3.5-beta-f9a8a56d-20210320.zip)
+* [Source-v2.3.7](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.7-beta/signalignerpro-source-v2.3.7-beta-notag-9fa7755f-20210429.zip)
 
 ## Research paper and citation request
 
