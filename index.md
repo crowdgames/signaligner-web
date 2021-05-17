@@ -160,13 +160,13 @@ For questions related to repo access, feature contribution, data processing scri
 [Aditya Ponnada](mailto:ponnada.a@husky.neu.edu) and [Prof. Seth Cooper](mailto:se.cooper@northeastern.edu)
 
 For questions related to MUSS and/or QC algorithm, please contact:
-[Qu Tang](tang.q@northeastern.edu)
+[Qu Tang](mailto:tang.q@northeastern.edu)
 
 For questions related to SWAN and/or QC algorithm, please contact:
-[Binod Thapa-Chhetry](thapachhetry.b@husky.neu.edu)
+[Binod Thapa-Chhetry](mailto:thapachhetry.b@husky.neu.edu)
 
 For collaboration-related questions, please contact:
-[Prof. Stephen Intille](S.Intille@northeastern.edu), [Prof. Seth Cooper](se.cooper@northeastern.edu), or [Prof. Dinesh John](d.john@northeastern.edu)
+[Prof. Stephen Intille](mailto:S.Intille@northeastern.edu), [Prof. Seth Cooper](mailto:se.cooper@northeastern.edu), or [Prof. Dinesh John](mailto:d.john@northeastern.edu)
 
 ## Acknowledgements ##
 
