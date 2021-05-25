@@ -20,7 +20,7 @@ Note that macOS and Linux updates will be released soon for v2.3.7-beta
 
 If you have used Signaligner Pro as part of your research and want to get more details, please read and cite the following paper.
 
-* Aditya Ponnada, Seth Cooper, Qu Tang, Binod Thapa-Chhetry, Josh Aaron Miller, Dinesh John, and Stephen Intille. (2021). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. In 2021 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops).
+* Aditya Ponnada, Seth Cooper, Qu Tang, Binod Thapa-Chhetry, Josh Aaron Miller, Dinesh John, and Stephen Intille. (2021). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. In 2021 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). DOI:https://doi.org/10.1109/PerComWorkshops51409.2021.9431110
 
 The original idea for Signaligner Pro stems from the following paper. Please get in touch for more details. The open access manuscript can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6876631/).
 
