@@ -8,12 +8,12 @@ Signaligner-Pro is an interactive tool for algorithm-assisted exploration and an
 
 ## Download Signaligner Pro ##
 
-### v2.3.10-beta ###
+### v2.4.0-beta ###
 
-* [Windows-v2.3.10-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.10-beta/signalignerpro-windows-v2.3.10-beta-fcb48504-20220330.zip)
-* [macOS-v2.3.10-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.10-beta/signalignerpro-macos-v2.3.10-beta-fcb48504-20220330.zip)
-* [Linux-v2.3.10-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.10-beta/signalignerpro-linux-v2.3.10-beta-fcb48504-20220330.zip)
-* [Source-v2.3.10-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.3.10-beta/signalignerpro-source-v2.3.10-beta-fcb48504-20220330.zip)
+* [Windows-v2.4.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.4.0-beta/signalignerpro_windows_v2.4.0-beta_3b2ca470_20230802.zip)
+* [macOS-v2.4.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.4.0-beta/signalignerpro_macos_v2.4.0-beta_3b2ca470_20230802.zip)
+* [Linux-v2.4.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.4.0-beta/signalignerpro_linux_v2.4.0-beta_3b2ca470_20230802.zip)
+* [Source-v2.4.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.4.0-beta/signalignerpro_source_v2.4.0-beta_3b2ca470_20230802.zip)
 
 ## Research paper and citation request
 
