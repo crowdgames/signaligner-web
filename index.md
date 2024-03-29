@@ -8,6 +8,13 @@ Signaligner-Pro is an interactive tool for algorithm-assisted exploration and an
 
 ## Download Signaligner Pro ##
 
+### v2.5.0-beta ###
+
+* [Windows-v2.5.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.5.0-beta/signalignerpro_windows_v2.5.0-beta_97aa6e26_20240328.zip)
+* [macOS-v2.5.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.5.0-beta/signalignerpro_macos_v2.5.0-beta_97aa6e26_20240328.zip)
+* [Linux-v2.5.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.5.0-beta/signalignerpro_linux_v2.5.0-beta_97aa6e26_20240328.zip)
+* [Source-v2.5.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.5.0-beta/signalignerpro_source_v2.5.0-beta_97aa6e26_20240328.zip)
+
 ### v2.4.0-beta ###
 
 * [Windows-v2.4.0-beta](https://github.com/crowdgames/signaligner-web/releases/download/v2.4.0-beta/signalignerpro_windows_v2.4.0-beta_3b2ca470_20230802.zip)
