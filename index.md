@@ -86,14 +86,6 @@ The first ten lines contain header information. Your imported dataset must have 
 6. If you have data from multiple sensors, please make sure that you place files from different sensors (but for the same participant) in the same sub-folder of the participant.
 7. Once imported, Signaligner Pro will process your data for visualization. This may take several minutes, depending on the size of the dataset.
 
-## Labeling data with algorithms ##
-
-1. Signaligner Pro is pre-packaged with three algorithms. **NOTE:** These algorithms are only compatible with the data from Actigraph devices. Please get in touch to run these algorithms for other sensor models.
-2. **MUSS:** Classifies data into 7 physical activities namely (to be updated). More details can be found here (TBA)
-3. **SWAN:** Classifies data into sleep, wear, and non-wear states. More details can be found here (TBA)
-4. **QC:** Checks if there are segments of bad data in the dataset that you may want to ignore. More details can be found here (TBA)
-5. For your imported dataset, select an algorithm of your choice to pre-label the data with. This process may take several minutes
-
 ## Importing your own labels ##
 
 You can import your own label files or labels created from other algorithms on the imported dataset. Please make sure that the start and end times of the labels lie within the start and end times of the the imported dataset. The data can be imported in the following format:
